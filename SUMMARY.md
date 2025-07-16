@@ -5,3 +5,5 @@
 * [Market Solution](market-solution.md)
 * [Product & Features](product-and-features.md)
 * [Revenue & Traction](revenue-and-traction.md)
+* [Copyright](copyright.md)
+* [License](license.md)

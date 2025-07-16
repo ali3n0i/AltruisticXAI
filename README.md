@@ -128,7 +128,9 @@ EcoPilot AI is ready to transform energy management. We're seeking strategic par
 * Early-stage investment
 * API technology integration
 
-**Demo Available**: [https://claude.ai/public/artifacts/6b459ba4-2c13-4614-8f6d-9224942fb476](https://claude.ai/public/artifacts/6b459ba4-2c13-4614-8f6d-9224942fb476)\
+**Demo Available**: www.altruisticxai.org
+
+[`Deck`](https://claude.ai/public/artifacts/6b459ba4-2c13-4614-8f6d-9224942fb476)\
 **Technology Stack**: Prometheus AI + Altruistic XAI + EcoPilot SaaS Platform
 
 ***
