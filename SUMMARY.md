@@ -7,3 +7,4 @@
 * [Revenue & Traction](revenue-and-traction.md)
 * [Copyright](copyright.md)
 * [License](license.md)
+* [The Future of Energy Management](the-future-of-energy-management.md)
