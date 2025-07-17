@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Altruistic AI: The Energy Balance Layer](README.md)
-  * [An Introductory Site](https://www.altruisticxai.org)
-  * [Page 1](energybalanceproject/page-1.md)
+  * [Problem -> Solution](energybalanceproject/problem-greater-than-solution.md)
+  * [Wireframe Beta ](https://www.altruisticxai.org)
 * [Solar Integration Guide](SOLAR_INTEGRATION.MD)
 * [Market Solution](market-solution.md)
 * [Product & Features](product-and-features.md)
