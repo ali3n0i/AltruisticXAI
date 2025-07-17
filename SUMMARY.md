@@ -1,6 +1,8 @@
 # Table of contents
 
-* [EcoPilot AI](README.md)
+* [Altruistic AI: The Energy Balance Layer](README.md)
+  * [An Introductory Site](https://www.altruisticxai.org)
+  * [Page 1](energybalanceproject/page-1.md)
 * [Solar Integration Guide](SOLAR_INTEGRATION.MD)
 * [Market Solution](market-solution.md)
 * [Product & Features](product-and-features.md)
