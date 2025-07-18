@@ -30,53 +30,76 @@ title: Volatile Energy Costs & Fra...
 {% endtab %}
 
 {% tab title="Solution: Three-Layer AI Ecosystem" %}
-**Core Technology: Precision Semantic AI**
+_<mark style="color:green;background-color:green;">**Core Technology: Precision Semantic AI**</mark>_
 
 I've engineered a proprietary AI system for advanced decision-making and pattern recognition. Unlike traditional models, this semantic AI focuses on deep understanding within specific domains, identifying subtle correlations and insights from complex datasets. Its targeted development provides rapid learning and delivers actionable intelligence for enterprise applications.
 
-**Development Approach**
+<mark style="color:green;background-color:green;">**Development Approach**</mark>
 
-The system builds on foundational AI frameworks (e.g., Grok or Perplexity AI), creating specialized systems without relying on vast generalized datasets. This enables faster iteration, efficient resource utilization, and domain-specific accuracy, making it suitable for local tech companies.
+The system builds on foundational AI frameworks[^1] creating specialized systems without relying on vast generalized datasets. This enables faster iteration, efficient resource utilization, and domain-specific accuracy, making it suitable for local tech companies.
 
-**Real-World Applications**
+<mark style="color:green;background-color:green;">**Real-World Applications**</mark>
 
-The system has been applied to companies in Biddeford, demonstrating versatility across sectors like solar and tidal energy, manufacturing, education, and finance. For example, it integrated with a solar company's operations to optimize financial planning and deployment strategies, generating a $2,700 project fee.
+The system has been applied to companies[^2], demonstrating versatility across sectors like solar and tidal energy, manufacturing, education, and finance. For example, it integrated with a solar company's operations to optimize financial planning and deployment strategies, generating a $2,700 project fee.
 
-**Advanced Application Example: Manufacturing Optimization**
+<p align="center"><mark style="color:green;background-color:green;">In manufacturing, AI examines various data streams to uncover subtle correlations, such as how environmental factors affect product defects. This enables precise interventions, identifying inefficiencies that traditional systems might overlook.</mark></p>
 
-In manufacturing, the AI analyzes diverse data streams to identify non-obvious correlations, such as impacts of environmental factors on product defects. This capability helps propose precise interventions, revealing inefficiencies that traditional systems might miss.
-
-**Technical Implementation: Downloadable Enterprise Solution**
+Technical Implementation: Downloadable Enterprise Solution
 
 This isn’t a web-based application but a downloadable software for on-premise or secure enterprise integration. Benefits include:
 
-* **Data Security & Privacy**: Keeps data within secure networks.
-* **Performance & Latency**: Ensures optimal processing of real-time data.
-* **Seamless Integration**: Allows deep integration with proprietary systems.
+* Data Security & Privacy: Keeps data within secure networks.
+* Performance & Latency: Ensures optimal processing of real-time data.
+* Seamless Integration: Allows deep integration with proprietary systems.
 
-**Business Model & Next Steps**
+Business Model & Next Steps
 
 Operating on a project-based model, I am scaling towards a SaaS structure, considering revenue sharing arrangements. Next steps involve validating solutions with institutions. Success in solving community-level problems indicates potential for larger institutions bridging research and real-world application.
 
 Altruistic XAI - Explainable AI Platform
 
-* **Transparency**: Complete openness in AI decision-making processes.
-* **Privacy**: Incorporates privacy-first logic and ethical guidelines.
-* **Reasoning Logs**: Displays the rationale behind each recommendation clearly.
+* Transparency: Complete openness in AI decision-making processes.
+* Privacy: Incorporates privacy-first logic and ethical guidelines.
+* Reasoning Logs: Displays the rationale behind each recommendation clearly.
 
 Energy Balancing AI - SaaS Application
 
-* **Purpose**: Optimizes energy usage and distribution via cloud-based solutions.
-* **Benefits**: Reduces costs, enhances sustainability, and improves grid stability for energy companies.
-* **Features**:
+* Purpose: Optimizes energy usage and distribution via cloud-based solutions.
+* Benefits: Reduces costs, enhances sustainability, and improves grid stability for energy companies.
+* Features:
   * Consumer and institutional optimization platform.
   * Bridges smart devices with manual systems.
   * Community-focused tools promoting collective resilience.
-
-### Key Benefits
-
-* **Responsiveness**: Adaptable to varying user demand and environmental conditions.
-* **Interactivity**: Engaging user interfaces allow for seamless interaction and control.
-* **Scalability**: Accommodates growing energy data and user requirements.
 {% endtab %}
 {% endtabs %}
+
+[^1]: 
+
+    * For example...
+
+    - For example...
+
+    1. **Conceptual Analysis**
+       * **Grok**: Deep understanding beyond the surface.
+       * **Perplexity AI**: Metrics to assess model uncertainty.
+    2. **Collaborative Development**
+       * **Claude Development**: Creating AI models with scalable designs.
+       * **Gemini Prompting**: Refined inputs enhancing model responses.
+
+    ### _Understanding and Insight_
+
+    * **Grok Tool**: Utilize Grok for deep understanding and comprehension of data and processes.
+    * **Perplexity AI**: Employ Perplexity AI to evaluate and enhance model predictions accurately.
+
+    ### _Development Strategies_
+
+    * **Collaboration on Projects**: Work on AI projects like Claude to develop strong solutions.
+    * **Gemini Optimization**: Use Gemini to refine the precision and effectiveness of prompts.
+
+[^2]: <sup><kbd><mark style="color:green;background-color:yellow;">Local Solar Installers<mark style="color:green;background-color:yellow;"><kbd></sup>
+
+    <sup><kbd><mark style="color:green;background-color:yellow;">Roofing Contractors<mark style="color:green;background-color:yellow;"><kbd></sup>
+
+    <sup><kbd><mark style="color:green;background-color:yellow;">Home Automation + Utility Savings<mark style="color:green;background-color:yellow;"><kbd></sup>
+
+    <sup><kbd><mark style="color:green;background-color:yellow;">Rebate + Solar Credit Solutions<mark style="color:green;background-color:yellow;"><kbd></sup>
