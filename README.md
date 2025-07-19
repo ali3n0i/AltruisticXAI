@@ -8,7 +8,7 @@ layout:
   width: default
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -22,19 +22,20 @@ layout:
   metadata:
     visible: true
 ---
+
+# Altruistic AI
+
 **An Invitation to Collaborate on a Live AI Deployment**
 
-This is not just a platform — it's a **working experiment.**
-We’re applying semantic AI to real-world problems to test one key question:
+This is not just a platform — it's a **working experiment.** We’re applying semantic AI to real-world problems to test one key question:
 
 > **Can interdisciplinary AI solve root-level challenges faster than legacy approaches?**
 
-We’re currently piloting this with institutions like **UNE (University of New England)** 
-but the experiment is **open to any university or organization** ready to think differently.
+We’re currently piloting this with institutions like **UNE (University of New England)** but the experiment is **open to any university or organization** ready to think differently.
 
 ***
 
-#### What We’re Exploring:
+**What We’re Exploring:**
 
 * AI that **learns fast** in specific domains (not generic LLMs)
 * Community-scale deployment models
@@ -43,7 +44,7 @@ but the experiment is **open to any university or organization** ready to think 
 
 ***
 
-#### Who This Is For:
+**Who This Is For:**
 
 * Research institutions
 * Universities expanding in AI, energy, EMS, edtech
@@ -51,9 +52,10 @@ but the experiment is **open to any university or organization** ready to think 
 
 ***
 
-👉 Want to join the experiment?
-📩 **alienxinnovation@gmail.com** | 🌐 [altraltruisticxai.org](https://altraltruisticxai.org)
+{% file src=".gitbook/assets/file.excalidraw (4).svg" %}
+My Journey
+{% endfile %}
 
-<div data-full-width="false"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
-{% endtab %}
-{% endtabs %}
+👉 Want to join the experiment? 📩 **alienxinnovation@gmail.com** | 🌐 [altraltruisticxai.org](https://altraltruisticxai.org)
+
+<div data-full-width="true"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
