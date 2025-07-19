@@ -22,8 +22,7 @@ layout:
   metadata:
     visible: true
 ---
-
-# Altruistic AI:#### **An Invitation to Collaborate on a Live AI Deployment**
+An Invitation to Collaborate on a Live AI Deployment**
 
 This is not just a platform — it's a **working experiment.**\
 We’re applying semantic AI to real-world problems to test one key question:
