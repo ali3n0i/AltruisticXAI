@@ -3,52 +3,17 @@ description: Current Model & Revenue Model(s)
 icon: money-bill-wave
 ---
 
-# My Journey -> To Revenue Model
+# My Journey -> +Revenue Model
 
-<mark style="color:purple;">`Consumer SaaS`</mark>
+[Consumer SaaS](#user-content-fn-1)[^1]
 
-* <kbd>**Price:**</kbd> <kbd></kbd><kbd>$25/month or $300/year</kbd>
-* <kbd>**Primary Market:**</kbd> <kbd></kbd><kbd>130 million U.S. households</kbd>
-* <kbd>**Target Segment:**</kbd> <kbd></kbd><kbd>25 million households using a mix of smart/manual systems</kbd>
-* <kbd>**Customer LTV:**</kbd> <kbd></kbd><kbd>$1,800 with an average retention of 6 years</kbd>
-* <kbd>**Revenue Potential:**</kbd> <kbd></kbd><kbd>$7.5 billion</kbd>
+[Institutional SaaS](#user-content-fn-2)[^2]
 
-<mark style="color:purple;">`Institutional SaaS`</mark>
-
-* <kbd>**Price Range:**</kbd> <kbd></kbd><kbd>$2,500–$8,500/year</kbd>
-* <kbd>**Primary Market:**</kbd> <kbd></kbd><kbd>Over 5,000 U.S. universities and municipalities</kbd>
-* <kbd>**Target Segment:**</kbd> <kbd></kbd><kbd>1,500 institutions focused on sustainability</kbd>
-* <kbd>**Customer LTV:**</kbd> <kbd></kbd><kbd>$35,000 with a 7-year contract average</kbd>
-* <kbd>**Revenue Potential:**</kbd> <kbd></kbd><kbd>$52.5 million</kbd>
-
-<mark style="color:purple;">`Platform Licensing`</mark>
-
-* <kbd>**Enterprise Pricing:**</kbd> <kbd></kbd><kbd>Variable based on integration complexity</kbd>
-* <kbd>**Prometheus AI SDK/API:**</kbd> <kbd></kbd><kbd>$10,000-$100,000 per year</kbd>
-* <kbd>**Altruistic XAI White-Label:**</kbd> <kbd></kbd><kbd>$25,000-$250,000 per implementation</kbd>
-* <kbd>**Target Market:**</kbd> <kbd></kbd><kbd>Energy companies, smart home platforms, and enterprise software</kbd>
-* <kbd>**Revenue Potential:**</kbd> <kbd></kbd><kbd>High-margin recurring fees, over $1 billion opportunity</kbd>
+[Platform Licensing](#user-content-fn-3)[^3]
 
 ***
 
-## <mark style="color:purple;">`Case Studies`</mark>
-
-**PSU Abington**
-
-<mark style="background-color:purple;">**`Two-month sandbox pilot focused on Proof of Value (PoV) learning.`**</mark>
-
-**Scope:** University energy optimization and student-life tech integration
-
-**Results:**
-
-* <mark style="color:purple;">`18% reduction in campus energy waste`</mark>
-* <mark style="color:purple;">`92% student satisfaction`</mark>
-
-**Impact:** Validated institutional market need and technical feasibility
-
-***
-
-### <mark style="color:purple;">`TUM Munich AI Innovation Award`</mark>
+`TUM Munich AI Innovation Award`
 
 **Achievement:** Won the "Best AI Flavor" award at the 2024 innovation showcase
 
@@ -57,6 +22,10 @@ icon: money-bill-wave
 **Recognition:** Judged by emerging AI specialists and budding professionals
 
 **Impact:** Gained initial recognition for a novel approach in explainable AI solutions
+
+<mark style="color:purple;">`PSU Abington`</mark>
+
+Two-month sandbox pilot focused on Proof of Value (PoV) learning.
 
 ***
 
@@ -93,3 +62,31 @@ icon: money-bill-wave
 <img src="../../.gitbook/assets/file.excalidraw (5).svg" alt="Collaborators: Prof. Alumni, Cornell Univ.; Fellow PhDs
 Journal: J. Educ. Tech. Anal.
 Year: 2024-2025" class="gitbook-drawing">
+
+[^1]: * **Price:** $25/month or $300/year
+
+    - **Primary Market:** 130 million U.S. households
+
+    * **Target Segment:** 25 million households using a mix of smart/manual systems
+
+    - **Customer LTV:** $1,800 with an average retention of 6 years
+
+    * **Revenue Potential:** $7.5 billion
+
+[^2]: * **Price Range:** $2,500–$8,500/year
+
+    - **Primary Market:** Over 5,000 U.S. universities and municipalities
+
+    * **Target Segment:** 1,500 institutions focused on sustainability
+
+    - **Customer LTV:** $35,000 with a 7-year contract average
+
+    * **Revenue Potential:** $52.5 million
+
+[^3]: * **Prometheus AI SDK/API:** $10,000-$100,000 per year
+
+    - **Altruistic XAI White-Label:** $25,000-$250,000 per implementation
+
+    * **Target Market:** Energy companies, smart home platforms, and enterprise software
+
+    - **Revenue Potential:** High-margin recurring fees, over $1 billion opportunity
