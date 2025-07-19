@@ -2,4 +2,16 @@
 title: cards
 ---
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th data-card-target data-type="content-ref"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="../../">..</a></td><td align="center"><kbd><mark style="color:purple;"><strong>Altruistic</strong></mark><mark style="color:purple;"> </mark><mark style="color:purple;">AI means the system chooses to act in ways that preserve shared futures, not exploit them.</mark></kbd></td><td><a href="../assets/Screenshot 2025-07-09 160907.png">Screenshot 2025-07-09 160907.png</a></td></tr><tr><td><a href="../../energybalanceproject/solar_integration.md">solar_integration.md</a></td><td align="center"><kbd><mark style="color:purple;">The question is no longer</mark><mark style="color:purple;"> </mark><mark style="color:purple;"><strong>"Can we reduce energy?"</strong></mark></kbd></td><td><a href="../assets/Screenshot 2025-05-26 123410.png">Screenshot 2025-05-26 123410.png</a></td></tr></tbody></table>
+{% tabs %}
+{% tab title="Universities" %}
+* <sup><sub>`Real-Life Collaborations: Prioritize hands-on collaborations over extensive R&D documentation for impactful results.`<sub></sup>
+* <sup><sub>`Expert Integration: Leverage experts to apply their knowledge in community-scale, testable projects.`<sub></sup>
+* <sup><sub>`Role of Generalists: Encourage generalists to identify overlooked gaps, bridging the narrow focus of specialists with broader perspectives.`<sub></sup>
+
+<sup><sub><mark style="color:green;">**Goal**<mark style="color:green;"><sub></sup><sup><sub><mark style="color:green;">: Close the gap between university research specialists and practical, community-driven innovation, encouraging university leaders to recognize the value of this systemic approach.<mark style="color:green;"><sub></sup>
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
