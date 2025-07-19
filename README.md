@@ -22,14 +22,14 @@ layout:
   metadata:
     visible: true
 ---
-An Invitation to Collaborate on a Live AI Deployment**
+An Invitation to Collaborate on a Live AI Deployment
 
-This is not just a platform — it's a **working experiment.**\
+This is not just a platform — it's a **working experiment.**
 We’re applying semantic AI to real-world problems to test one key question:
 
 > **Can interdisciplinary AI solve root-level challenges faster than legacy approaches?**
 
-We’re currently piloting this with institutions like **UNE (University of New England)** —\
+We’re currently piloting this with institutions like **UNE (University of New England)** 
 but the experiment is **open to any university or organization** ready to think differently.
 
 ***
@@ -51,7 +51,7 @@ but the experiment is **open to any university or organization** ready to think 
 
 ***
 
-👉 Want to join the experiment?\
+👉 Want to join the experiment?
 📩 **alienxinnovation@gmail.com** | 🌐 [altraltruisticxai.org](https://altraltruisticxai.org)
 
 <div data-full-width="false"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
