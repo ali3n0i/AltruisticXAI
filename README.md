@@ -25,6 +25,8 @@ We are in the planning stage, piloting this initiative with institutions such as
 
 [<sup>Target Audience</sup>](#user-content-fn-3)[^3]
 
+<sup>A Story & Our 'Why'</sup>
+
 ***
 
 **👉&#x20;**<mark style="color:purple;">**Want to join the experiment?**</mark>**&#x20;**<mark style="color:blue;">**📩**</mark>**&#x20;**<mark style="color:purple;">**alienxinnovation@gmail.com |**</mark>**&#x20;**<mark style="color:blue;">**🌐**</mark> [<mark style="color:purple;">**altruisticxai.org**</mark>](https://www.altruisticxai.org/)
