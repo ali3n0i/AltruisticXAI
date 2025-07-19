@@ -1,5 +1,5 @@
 ---
-description: Current Model & Revenue Model(s)
+description: Current Model & Revenue Type(s)
 icon: money-bill-wave
 ---
 
@@ -13,7 +13,7 @@ icon: money-bill-wave
 
 ***
 
-`TUM Munich AI Innovation Award`
+<mark style="color:purple;">`TUM Munich AI Innovation Award`</mark>
 
 **Achievement:** Won the "Best AI Flavor" award at the 2024 innovation showcase
 
