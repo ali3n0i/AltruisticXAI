@@ -2,7 +2,7 @@
 
 * [Altruistic AI](README.md)
   * [Real Solutions > Band-Aids](energybalanceproject/problem-greater-than-solution.md)
-  * [Market Solution](energybalanceproject/market-solution/README.md)
+  * [The Energy Sector 2025+](energybalanceproject/market-solution/README.md)
     * [Product & Features](energybalanceproject/market-solution/product-and-features.md)
     * [My Journey -> +Revenue Model](readme/market-solution/revenue-and-traction.md)
     * [Current Focus](energybalanceproject/market-solution/a-3-layered-approach-to-intelligence.md)

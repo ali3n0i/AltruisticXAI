@@ -1,8 +1,6 @@
 # Product & Features
 
-### Product Features & Competitive Advantages
-
-#### Energy Recipes™
+Energy Recipes™
 
 * What It Does: Creates personalized automations and manual schedules for mixed energy systems
 * Unique Value: Only solution that works with both smart devices and legacy systems
