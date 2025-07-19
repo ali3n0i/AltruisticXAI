@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -17,7 +17,7 @@ layout:
   pagination:
     visible: true
   metadata:
-    visible: true
+    visible: false
 ---
 
 # Problem -> Solution
@@ -75,8 +75,6 @@ layout:
 {% endtabs %}
 
 {% include "../.gitbook/includes/untitled (1).md" %}
-
-
 
 {% include "../.gitbook/includes/untitled (3).md" %}
 

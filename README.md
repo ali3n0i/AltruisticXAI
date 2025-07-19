@@ -4,23 +4,7 @@ vars:
 description: Maine’s Independent AI Lab
 icon: lightbulb-on
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+layout: landing
 ---
 
 # Altruistic AI
@@ -51,10 +35,6 @@ We’re currently piloting this with institutions like **UNE (University of New 
 * Programs seeking student-first, community-validated innovation
 
 ***
-
-{% file src=".gitbook/assets/file.excalidraw (4).svg" %}
-My Journey
-{% endfile %}
 
 👉 Want to join the experiment? 📩 **alienxinnovation@gmail.com** | 🌐 [altraltruisticxai.org](https://altraltruisticxai.org)
 
