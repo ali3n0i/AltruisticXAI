@@ -1,32 +1,20 @@
 ---
-description: >-
-  FOCUS: The Energy Balance Project ~ Maine Integration, An Experimental
-  Proposal
+description: Energy Balance Project The Comprehensive Energy Solution
 icon: lightbulb-cfl-on
 ---
 
-# A 3-Layered Approach to Intelligence
+# Current Focus
 
-<mark style="color:purple;">`Prometheus AI`</mark>
+Automates energy efficiency enhancements, guides detailed home energy upgrades, and leverages university collaborations for scalable community resilience.
 
-**The Foundational Intelligence Layer. Processes complex data into actionable insights.**
-
-#### <mark style="color:purple;">`Altruistic XAI`</mark>
-
-**The Ethical & Explainable Platform. Ensures transparency, trust, and user empowerment.**
-
-#### <mark style="color:purple;">`Energy Balance Project`</mark>
-
-**The Energy Application. Optimizes home energy, plans upgrades, and fosters community resilience.**
-
-### <sup><mark style="color:purple;">`Our Core Principles`<mark style="color:purple;"></sup>
+### <mark style="color:purple;">`Our Core Principles`</mark>
 
 * Empowering users with informed decision-making tools.
 * Fostering an inclusive and supportive community.
 * Maintaining transparency and building trust.
 * Adapting to change and evolving with needs.
 
-### <sup><mark style="color:purple;">`Key Feature Enhancements`<mark style="color:purple;"></sup>
+### <mark style="color:purple;">`Key Feature Enhancements`</mark>
 
 #### <kbd>Interoperability Layer</kbd>
 

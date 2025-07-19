@@ -33,7 +33,7 @@ layout:
 
 {% tabs fullWidth="true" %}
 {% tab title="Challenges in Modern Energy Systems" %}
-<mark style="color:green;background-color:green;">`Volatile Energy Costs & Fragmented Systems`</mark>\
+<mark style="color:green;background-color:green;">**`Volatile Energy Costs & Fragmented Systems`**</mark>\
 `Integrating smart devices with legacy systems poses challenges due to complex coordination between solar, heat pumps, traditional heating, and grid power. The absence of unified control systems hinders optimal performance.`
 
 <mark style="color:green;background-color:green;">**`Complex, Underutilized Incentive Programs`**</mark>\
