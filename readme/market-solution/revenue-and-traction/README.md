@@ -31,7 +31,7 @@ Platform Licensing
 
 ***
 
-### <mark style="color:purple;">`Case Studies`</mark>
+## <mark style="color:purple;">`Case Studies`</mark>
 
 **PSU Abington**
 
@@ -88,8 +88,8 @@ Platform Licensing
 
 `Understanding a subject requires exploring diverse perspectives. Engaging with different viewpoints highlights biases and questions assumptions, improving critical thinking and empathy. To reach balanced conclusions, embrace differences, consult multiple sources, and keep an open mind.`
 
-{% include "../../.gitbook/includes/my-journey-pov.md" %}
+{% include "../../../.gitbook/includes/my-journey-pov.md" %}
 
-<img src="../../.gitbook/assets/file.excalidraw (5).svg" alt="Collaborators: Prof. Alumni, Cornell Univ.; Fellow PhDs
+<img src="../../../.gitbook/assets/file.excalidraw (5).svg" alt="Collaborators: Prof. Alumni, Cornell Univ.; Fellow PhDs
 Journal: J. Educ. Tech. Anal.
 Year: 2024-2025" class="gitbook-drawing">
