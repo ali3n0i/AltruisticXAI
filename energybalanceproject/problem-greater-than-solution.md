@@ -25,29 +25,25 @@ layout:
 
 # Real Solutions > Band-Aids
 
-{% hint style="info" %}
-<mark style="color:purple;background-color:purple;">**Use underlined text for annotations providing extra information.**</mark>
-{% endhint %}
-
 <mark style="color:purple;background-color:purple;">**We are excited to announce the launch of an experimental phase where our platform integrates advanced AI with cutting-edge energy solutions, specifically targeting smaller communities.**</mark>&#x20;
 
-[What is your goal?](#user-content-fn-1)[^1]
+[<mark style="color:purple;background-color:purple;">**What is your goal?**</mark>](#user-content-fn-1)[^1]
 
-[Who is participating?](#user-content-fn-2)[^2]
+[<mark style="color:purple;background-color:purple;">**Who is participating?**</mark>](#user-content-fn-2)[^2]
 
 {% tabs fullWidth="true" %}
 {% tab title="Challenges in Modern Energy Systems" %}
-<mark style="color:green;background-color:green;">**Volatile Energy Costs & Fragmented Systems**</mark>\
-**Integrating** smart devices with legacy systems poses challenges due to complex coordination between solar, heat pumps, traditional heating, and grid power. The absence of unified control systems hinders optimal performance.
+<mark style="color:green;background-color:green;">`Volatile Energy Costs & Fragmented Systems`</mark>\
+`Integrating smart devices with legacy systems poses challenges due to complex coordination between solar, heat pumps, traditional heating, and grid power. The absence of unified control systems hinders optimal performance.`
 
-<mark style="color:green;background-color:green;">**Complex, Underutilized Incentive Programs**</mark>\
-Many energy rebates and tax credits are unclaimed as homeowners struggle with understanding eligibility and timing. Clear guidance is needed to facilitate strategic energy upgrades.
+<mark style="color:green;background-color:green;">**`Complex, Underutilized Incentive Programs`**</mark>\
+`Many energy rebates and tax credits are unclaimed as homeowners struggle with understanding eligibility and timing. Clear guidance is needed to facilitate strategic energy upgrades.`
 
-<mark style="color:green;background-color:green;">**AI Tools as Black Boxes**</mark>\
-AI recommendations often lack transparency, raising privacy concerns with cloud-based data processing. Greater clarity in algorithmic processes is essential.
+<mark style="color:green;background-color:green;">**`AI Tools as Black Boxes`**</mark>\
+`AI recommendations often lack transparency, raising privacy concerns with cloud-based data processing. Greater clarity in algorithmic processes is essential.`
 
-<mark style="color:green;background-color:green;">**Limited Community Energy Resilience**</mark>\
-Current tools for collective energy planning in neighborhoods are inadequate. Communities need better insights and infrastructure to achieve energy independence and coordinated management.
+<mark style="color:green;background-color:green;">**`Limited Community Energy Resilience`**</mark>\
+`Current tools for collective energy planning in neighborhoods are inadequate. Communities need better insights and infrastructure to achieve energy independence and coordinated management.`
 {% endtab %}
 
 {% tab title="3-Layered Solution" %}
