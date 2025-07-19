@@ -9,33 +9,35 @@ layout: landing
 
 # Altruistic AI
 
-**An Invitation to Collaborate on a Live AI Deployment**
+This platform is an ongoing experiment. We leverage semantic AI to solve real-world challenges, focusing on the vital question:
 
-This is not just a platform — it's a **working experiment.** We’re applying semantic AI to real-world problems to test one key question:
+<p align="center"><a data-footnote-ref href="#user-content-fn-1"><em><mark style="color:purple;background-color:purple;"><strong>Can interdisciplinary AI tackle foundational issues more efficiently than traditional methods?</strong></mark></em></a></p>
 
-> **Can interdisciplinary AI solve root-level challenges faster than legacy approaches?**
-
-We’re currently piloting this with institutions like **UNE (University of New England)** but the experiment is **open to any university or organization** ready to think differently.
+<sup><mark style="color:purple;">We are in the planning stage, piloting this initiative with institutions such as UNE (University of New England). It is available to any university or organization interested in innovation.<mark style="color:purple;"></sup>
 
 ***
 
-**What We’re Exploring:**
+<mark style="color:purple;background-color:purple;">What We’re Exploring:</mark>
 
-* AI that **learns fast** in specific domains (not generic LLMs)
-* Community-scale deployment models
-* Generalists + experts solving real problems together
-* Replacing “band-aid tech” with testable, sustainable systems
-
-***
-
-**Who This Is For:**
-
-* Research institutions
-* Universities expanding in AI, energy, EMS, edtech
-* Programs seeking student-first, community-validated innovation
+* <sub>AI that learns</sub> <sub></sub><sub>**fast**</sub> <sub></sub><sub>in specific domains (not generic LLMs)</sub>
+* <sub>Community-scale deployment models</sub>
+* <sub>Generalists and experts collaborating to solve real problems</sub>
+* <sub>Replacing “band-aid tech” with testable, sustainable systems</sub>
 
 ***
 
-👉 Want to join the experiment? 📩 **alienxinnovation@gmail.com** | 🌐 [altraltruisticxai.org](https://altraltruisticxai.org)
+<mark style="color:purple;background-color:purple;">Target Audience:</mark>
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+* <sup>Research institutions</sup>
+* <sup>Universities expanding in AI, energy, EMS, and edtech</sup>
+* <sup>Programs focused on student-centric, community-driven innovation</sup>
+
+***
+
+👉 <mark style="color:purple;">Want to join the experiment?</mark> <mark style="color:blue;">📩</mark> <mark style="color:purple;">**alienxinnovation@gmail.com**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">|</mark> <mark style="color:blue;">🌐</mark> [<mark style="color:purple;">altruisticxai.org</mark>](https://www.altruisticxai.org/)
+
+<p align="center"><sup><mark style="background-color:purple;">An Invitation to Collaborate on a Live AI Deployment</mark></sup></p>
+
+<div data-full-width="false"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+
+[^1]: Interdisciplinary AI integrates methods from computer science, neuroscience, cognitive science, and social sciences to solve complex problems. This approach leverages diverse perspectives, providing innovative solutions and addressing foundational issues that traditional methods might miss. By uniting multiple disciplines, interdisciplinary AI fosters a comprehensive understanding of intricate challenges, leading to more efficient and holistic solutions.
