@@ -2,8 +2,6 @@
 title: Untitled
 ---
 
-***
-
 ### <sup>`🔹`</sup><sup>` `</sup><sup>**`1. Local-First AI Architecture`**</sup>
 
 * <sup>`Unlike cloud-based solutions, all data processing happens onsite.`</sup>

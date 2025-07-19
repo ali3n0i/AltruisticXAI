@@ -37,14 +37,15 @@ layout:
 
 {% tabs fullWidth="true" %}
 {% tab title="Challenges in Modern Energy Systems" %}
-1. **Volatile Energy Costs & Fragmented Systems**\
-   **Integrating** smart devices with legacy systems poses challenges due to complex coordination between solar, heat pumps, traditional heating, and grid power. The absence of unified control systems hinders optimal performance.
-2. **Complex, Underutilized Incentive Programs**\
-   Many energy rebates and tax credits are unclaimed as homeowners struggle with understanding eligibility and timing. Clear guidance is needed to facilitate strategic energy upgrades.
-3. **AI Tools as Black Boxes**\
-   AI recommendations often lack transparency, raising privacy concerns with cloud-based data processing. Greater clarity in algorithmic processes is essential.
-4. **Limited Community Energy Resilience**\
-   Current tools for collective energy planning in neighborhoods are inadequate. Communities need better insights and infrastructure to achieve energy independence and coordinated management.
+<mark style="color:green;background-color:green;">Volatile Energy Costs & Fragmented Systems</mark>\
+**Integrating** smart devices with legacy systems poses challenges due to complex coordination between solar, heat pumps, traditional heating, and grid power. The absence of unified control systems hinders optimal performance.
+
+<mark style="color:green;background-color:green;">**Complex, Underutilized Incentive Programs**</mark>\
+Many energy rebates and tax credits are unclaimed as homeowners struggle with understanding eligibility and timing. Clear guidance is needed to facilitate strategic energy upgrades.
+
+<sup>**AI Tools as Black Boxes**</sup>\ <sup>AI recommendations often lack transparency, raising privacy concerns with cloud-based data processing. Greater clarity in algorithmic processes is essential.</sup>
+
+<sup>**Limited Community Energy Resilience**</sup>\ <sup>Current tools for collective energy planning in neighborhoods are inadequate. Communities need better insights and infrastructure to achieve energy independence and coordinated management.</sup>
 {% endtab %}
 
 {% tab title="Solution: Three-Layer AI Ecosystem" %}
@@ -52,7 +53,7 @@ layout:
 
 **AI Approach:** By leveraging foundational AI frameworks, the system develops specialized applications without needing large datasets, ensuring quick development, resource efficiency, and better domain accuracy for local tech companies.
 
-[<mark style="color:green;background-color:green;">`Technical Implementation: API, Automation, and Interactive Dashboard`</mark>](#user-content-fn-3)[^3]
+[<mark style="color:green;background-color:green;">`Technical Implementation: API, Automation, and Interactive Dashboar`</mark>](#user-content-fn-3)[^3]
 
 [<mark style="background-color:green;">**Business Model & Future Steps**</mark>](#user-content-fn-4)[^4]
 
@@ -70,11 +71,7 @@ layout:
 {% endtab %}
 {% endtabs %}
 
-{% include "../.gitbook/includes/untitled (1).md" %}
-
 {% include "../.gitbook/includes/untitled (3).md" %}
-
-
 
 [^1]: This initiative is designed to make smart technology more accessible by transforming complex datasets into clear, actionable insights. Our goal is to empower local businesses and organizations to optimize their resources, reduce costs, and improve efficiency.
 

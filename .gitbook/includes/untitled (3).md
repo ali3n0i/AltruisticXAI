@@ -4,7 +4,7 @@ title: Untitled
 
 <details>
 
-<summary>Call To Action</summary>
+<summary><mark style="color:green;">Call To Action</mark></summary>
 
 <sup>`Institutional pilots and partnerships`</sup>
 

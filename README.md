@@ -11,18 +11,16 @@ layout: landing
 
 This platform is an ongoing experiment. We leverage semantic AI to solve real-world challenges, focusing on the vital question:
 
-<p align="center"><a data-footnote-ref href="#user-content-fn-1"><em><mark style="color:purple;background-color:purple;"><strong>Can interdisciplinary AI tackle foundational issues more efficiently than traditional methods?</strong></mark></em></a></p>
+<p align="center"><a data-footnote-ref href="#user-content-fn-1"><mark style="color:purple;background-color:purple;"><strong>Can interdisciplinary AI tackle foundational issues more efficiently than traditional methods?</strong></mark></a></p>
 
-<sup><mark style="color:purple;">We are in the planning stage, piloting this initiative with institutions such as UNE (University of New England). It is available to any university or organization interested in innovation.<mark style="color:purple;"></sup>
+We are in the planning stage, piloting this initiative with institutions such as UNE (University of New England). It is available to any university or organization interested in innovation.
 
-***
+<mark style="color:purple;background-color:purple;">`What We’re Exploring:`</mark>
 
-<mark style="color:purple;background-color:purple;">What We’re Exploring:</mark>
-
-* <sub>AI that learns</sub> <sub></sub><sub>**fast**</sub> <sub></sub><sub>in specific domains (not generic LLMs)</sub>
-* <sub>Community-scale deployment models</sub>
-* <sub>Generalists and experts collaborating to solve real problems</sub>
-* <sub>Replacing “band-aid tech” with testable, sustainable systems</sub>
+* <sub>`AI that learns`</sub><sub>` `</sub><sub>**`fast`**</sub><sub>` `</sub><sub>`in specific domains (not generic LLMs)`</sub>
+* <sub>`Community-scale deployment models`</sub>
+* <sub>`Generalists and experts collaborating to solve real problems`</sub>
+* <sub>`Replacing “band-aid tech” with testable, sustainable systems`</sub>
 
 ***
 
