@@ -1,9 +1,9 @@
 ---
-description: Current Model & Revenue Type(s)
+description: ROI Model Type(s) & My Background.
 icon: money-bill-wave
 ---
 
-# My Journey -> +Revenue Model
+# My Journey ->
 
 [Consumer SaaS](#user-content-fn-1)[^1]
 
@@ -29,7 +29,7 @@ Two-month sandbox pilot focused on Proof of Value (PoV) learning.
 
 ***
 
-<mark style="color:purple;background-color:purple;">`From Business SaaS Applications to Educational Trials`</mark>
+<mark style="color:purple;">`From Business SaaS Applications to Educational Trials`</mark>
 
 **`Applications:`**
 
@@ -51,11 +51,11 @@ Two-month sandbox pilot focused on Proof of Value (PoV) learning.
 
 <mark style="color:purple;background-color:purple;">`TDLR;`</mark>
 
-`In my recent project/pursuits`` `~~`(of hobby interest`~~`) I conducted in-depth research aimed at uncovering innovative methodologies across various scientific fields. This involved a comprehensive study of emerging technologies and their practical applications.`
+In my recent project/pursuits ~~(of hobby interest~~) I conducted in-depth research aimed at uncovering innovative methodologies across various scientific fields. This involved a comprehensive study of emerging technologies and their practical applications.
 
-## <sub><mark style="color:purple;">`Understanding Through Diverse Perspectives`<mark style="color:purple;"></sub>
+## <sup><sub><mark style="color:purple;">`Understanding Through Diverse Perspectives`<mark style="color:purple;"><sub></sup>
 
-`Understanding a subject requires exploring diverse perspectives. Engaging with different viewpoints highlights biases and questions assumptions, improving critical thinking and empathy. To reach balanced conclusions, embrace differences, consult multiple sources, and keep an open mind.`
+Understanding a subject requires exploring diverse perspectives. Engaging with different viewpoints highlights biases and questions assumptions, improving critical thinking and empathy. To reach balanced conclusions, embrace differences, consult multiple sources, and keep an open mind.
 
 {% include "../../.gitbook/includes/my-journey-pov.md" %}
 
@@ -63,30 +63,34 @@ Two-month sandbox pilot focused on Proof of Value (PoV) learning.
 Journal: J. Educ. Tech. Anal.
 Year: 2024-2025" class="gitbook-drawing">
 
-[^1]: * **Price:** $25/month or $300/year
+[^1]: * <sub>**Price:**</sub> <sub></sub><sub>$25/month or $300/year</sub>
 
-    - **Primary Market:** 130 million U.S. households
+    - <sub>**Primary Market:**</sub> <sub></sub><sub>130 million U.S. households</sub>
 
-    * **Target Segment:** 25 million households using a mix of smart/manual systems
+    * <sub>**Target Segment:**</sub> <sub></sub><sub>25 million households using a mix of smart/manual systems</sub>
 
-    - **Customer LTV:** $1,800 with an average retention of 6 years
+    - <sub>**Customer LTV:**</sub> <sub></sub><sub>$1,800 with an average retention of 6 years</sub>
 
-    * **Revenue Potential:** $7.5 billion
+    * <sub>**Revenue Potential:**</sub> <sub></sub><sub>$7.5 billion</sub>
 
-[^2]: * **Price Range:** $2,500–$8,500/year
+[^2]: * <sub>**Price Range:**</sub> <sub></sub><sub>$2,500–$8,500/year</sub>
 
-    - **Primary Market:** Over 5,000 U.S. universities and municipalities
+    - <sub>**Primary Market:**</sub> <sub></sub><sub>Over 5,000 U.S. universities and municipalities</sub>
 
-    * **Target Segment:** 1,500 institutions focused on sustainability
+    * <sub>**Target Segment:**</sub> <sub></sub><sub>1,500 institutions focused on sustainability</sub>
 
-    - **Customer LTV:** $35,000 with a 7-year contract average
+    - <sub>**Customer LTV:**</sub> <sub></sub><sub>$35,000 with a 7-year contract average</sub>
 
-    * **Revenue Potential:** $52.5 million
+    * <sub>**Revenue Potential:**</sub> <sub></sub><sub>$52.5 million</sub>
 
-[^3]: * **Prometheus AI SDK/API:** $10,000-$100,000 per year
+[^3]: <sub>Target Market</sub>
 
-    - **Altruistic XAI White-Label:** $25,000-$250,000 per implementation
+    * <sub>Energy companies, smart home platforms, enterprise software</sub>
 
-    * **Target Market:** Energy companies, smart home platforms, and enterprise software
+    <sub>Revenue Potential</sub>
 
-    - **Revenue Potential:** High-margin recurring fees, over $1 billion opportunity
+    * <sub>Significant: Recurring fees with a focus on sustainable energy growth</sub>
+
+    <sub>Vision</sub>
+
+    * <sub>Unifying AI innovations with Maine's energy growth strategy for sustainable development and economic expansion.</sub>
