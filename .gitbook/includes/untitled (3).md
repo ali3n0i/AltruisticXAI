@@ -4,11 +4,11 @@ title: Untitled
 
 <details>
 
-<summary><mark style="color:purple;background-color:purple;">Call To Action</mark></summary>
+<summary>Call To Action</summary>
 
-Institutional pilots and partnerships
+<sup>`Institutional pilots and partnerships`</sup>
 
-* Early-stage investment
-* API technology integration
+* <sup>`Early-stage investment`</sup>
+* <sup>`API technology integration`</sup>
 
 </details>

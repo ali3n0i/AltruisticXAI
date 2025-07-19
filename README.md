@@ -1,26 +1,66 @@
 ---
 vars:
   Landing: Landing Page
+description: Maine’s Independent AI Lab
 icon: lightbulb-on
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Altruistic AI
 
-{% include ".gitbook/includes/this-isnt-about-optimizati... (2).md" %}
-
 {% include ".gitbook/includes/untitled.md" %}
 
-{% include ".gitbook/includes/cards.md" %}
+{% tabs fullWidth="true" %}
+{% tab title="Universities" %}
+#### **An Invitation to Collaborate on a Live AI Deployment**
 
-{% include ".gitbook/includes/untitled (1) (1).md" %}
+This is not just a platform — it's a **working experiment.**\
+We’re applying semantic AI to real-world problems to test one key question:
 
-{% include ".gitbook/includes/untitled (1).md" %}
+> **Can interdisciplinary AI solve root-level challenges faster than legacy approaches?**
+
+We’re currently piloting this with institutions like **UNE (University of New England)** —\
+but the experiment is **open to any university or organization** ready to think differently.
 
 ***
 
-1. <mark style="color:green;">Integrated Tech Solution: Explore our cutting-edge AI-powered automation platform that seamlessly integrates command-line interfaces (CLI), application programming interfaces (API), and our upcoming user-friendly app. Driven by Prometheus AI, this advanced system enhances operational efficiency by unifying diverse technologies into a single, cohesive framework.</mark>
-2. <mark style="color:purple;">Localized-Community AI: Shift focus from mainstream tech to promoting localized community energy savings by optimizing grid power, leveraging AI innovations for unique, non-repetitive solutions in the energy sector.</mark>
-3. <mark style="color:red;">Beneath the Noise: Our core focus is an altruistic form of AI that transcends mere human exploration, avoiding confinement to off-the-shelf models. This AI doesn't just perform tasks for you but expands possibilities beyond conventional defaults.</mark>
+#### What We’re Exploring:
+
+* AI that **learns fast** in specific domains (not generic LLMs)
+* Community-scale deployment models
+* Generalists + experts solving real problems together
+* Replacing “band-aid tech” with testable, sustainable systems
 
 ***
+
+#### Who This Is For:
+
+* Research institutions
+* Universities expanding in AI, energy, EMS, edtech
+* Programs seeking student-first, community-validated innovation
+
+***
+
+👉 Want to join the experiment?\
+📩 **alienxinnovation@gmail.com** | 🌐 [altraltruisticxai.org](https://altraltruisticxai.org)
+
+<div data-full-width="false"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+{% endtab %}
+{% endtabs %}
