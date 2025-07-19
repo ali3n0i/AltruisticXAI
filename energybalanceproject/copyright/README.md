@@ -1,6 +1,9 @@
-# Copyright
+---
+description: Proprietary Software License
+icon: scale-unbalanced-flip
+---
 
-Proprietary Software License
+# Copyright
 
 Copyright (c) 2025 @ali3n0i. All rights reserved.
 
