@@ -23,13 +23,7 @@ layout:
     visible: true
 ---
 
-# Altruistic AI
-
-{% include ".gitbook/includes/untitled.md" %}
-
-{% tabs fullWidth="true" %}
-{% tab title="Universities" %}
-#### **An Invitation to Collaborate on a Live AI Deployment**
+# Altruistic AI:#### **An Invitation to Collaborate on a Live AI Deployment**
 
 This is not just a platform — it's a **working experiment.**\
 We’re applying semantic AI to real-world problems to test one key question:
